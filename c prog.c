@@ -2,7 +2,7 @@
 #include<conio.h>
 main()
 {
-int i=1;
+int j=1;
 print("number is %d",i);
 getch();
 }
